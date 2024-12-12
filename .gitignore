@@ -1,0 +1,27 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+.env/
+
+# Archivos de configuración con credenciales
+config.py
+*.token
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+BOT_TOKEN = "7974122529:AAHzb1eR0GTZJCsTa9EzMgMbmoPE70ekj-U"
+
+venv/
+config.py
+__pycache__/
